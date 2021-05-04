@@ -7,7 +7,7 @@ Kelas                   : TI.19.C.1
 Program Studi/Semester	: Teknik Informatika / 4
 Universitas Pelita Bangsa
 ```
-## Preview hasil konversi PSD ke HTML
+## Preview hasil konversi PSD ke HTML dan CSS
 ```
 Home
 ```
